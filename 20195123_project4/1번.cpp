@@ -29,7 +29,6 @@ public:
 int main() {
 	int l, w, h, v;
 
-	
 	Box a(10, 10, 10), b(20, 20, 20);
 	
 	a.print();
@@ -41,5 +40,4 @@ int main() {
 	else
 		cout << "false"<< endl;
 
-	
 }
